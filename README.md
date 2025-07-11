@@ -5,7 +5,8 @@ Mortgage calculator mobile app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![Aperçu de la calculatrice d'hypothèque](screenshots/screenshot.png)
+
+![Aperçu de la calculatrice d'hypothèque](Screeenshot/Screenshot_20250711_095055.png)
 
 A few resources to get you started if this is your first Flutter project:
 
